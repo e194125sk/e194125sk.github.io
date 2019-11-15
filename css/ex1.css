@@ -1,0 +1,26 @@
+
+h2{  
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    background-color: indigo;
+}
+
+h3{  
+    color: khaki;
+    font-weight: bold;
+    background-color: indigo
+}
+
+table{
+    background-color: lightyellow
+}
+
+p{
+    background-image: url(http://dcs-webdesign.lolipop.jp/wp-content/uploads/2013/09/%E9%8A%801.jpg)
+}
+
+body{
+    background-image: url(https://www.silhouette-illust.com/wp-content/uploads/2016/06/2971-300x300.jpg)
+}
