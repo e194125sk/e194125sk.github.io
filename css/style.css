@@ -1,0 +1,116 @@
+div.wrap{
+     width: 1000px;
+    margin: 0px auto;
+
+   
+}
+div.title{
+    width: 100%;
+    height: 50px;
+    background-color: chocolate;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    display: inline-block;
+    vertical-align: top
+}
+
+div.midle{
+    width: 100%;
+    height: 800px;
+    display: inline-block;
+        vertical-align: top
+}
+
+div.menu{
+    width: 180px;
+    height: 800px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+div.box{
+    width: 180px;
+    height: 30px;
+    background-color: beige;
+    vertical-align: top;
+    text-align: center;
+     display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    color: chocolate
+}
+div.menuitem{
+    width: 180px;
+    height: 100px;
+    background-color: cornflowerblue;
+     display: inline-block;
+    vertical-align: top;
+}
+
+div.text1{
+    width: 180px;
+    height: 20px;
+    background-color: ivory;
+    color: beige;
+    text-align: center;
+     display: inline-block;
+    vertical-align: top;
+    font-size: 15px;
+    border: 2px solid brack;
+}
+div.kinokosaikou{
+    width: 640px;
+    height: 800px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 0px auto;
+}
+div.kinoko1{
+    width: 640px;
+    height: 800px;
+    display: inline-block;
+    background-color: lemonchiffon; 
+}
+
+div.kinokosuko{
+    width: 180px;
+    height: 800px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.picture{
+    width: 180px;
+    height: 180px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+}
+
+div.text2{
+    width: 180px;
+    height: 90px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 15px;
+    border: 2px solid brack;
+    background-color: lightseagreen;
+    color: sienna;
+}
+
+div.footer{
+    width: 100%;
+    height: 40px;
+    text-align: right;
+    font-size: 20px;
+    vertical-align: bottom;
+    vertical-align: top;
+    background-color: darkcyan
+}
+
+
+
+
